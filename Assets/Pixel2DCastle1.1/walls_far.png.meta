@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: d10e1096b4280ba43ae57c157fc254a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2979401528820040641
+    second: walls_far_0
+  - first:
+      213: 6371470091529921071
+    second: walls_far_1
+  - first:
+      213: -6384609458900919153
+    second: walls_far_2
+  - first:
+      213: 7382048543696266689
+    second: walls_far_3
+  - first:
+      213: 7995127708874946828
+    second: walls_far_4
+  - first:
+      213: 8204923800433053598
+    second: walls_far_5
+  - first:
+      213: -5143085529530961445
+    second: walls_far_6
+  - first:
+      213: 7905700390633845012
+    second: walls_far_7
+  - first:
+      213: 7513245176463411015
+    second: walls_far_8
+  - first:
+      213: -5730468998492774191
+    second: walls_far_9
+  - first:
+      213: 6342391054105341674
+    second: walls_far_10
+  - first:
+      213: 8582498935305054851
+    second: walls_far_11
+  - first:
+      213: -2723052689214944862
+    second: walls_far_12
+  - first:
+      213: -2941896409005868727
+    second: walls_far_13
+  - first:
+      213: 3790310937060785419
+    second: walls_far_14
+  - first:
+      213: -3811461969751173433
+    second: walls_far_15
+  - first:
+      213: 393936933771284163
+    second: walls_far_16
+  - first:
+      213: -8891615233128088399
+    second: walls_far_17
+  - first:
+      213: 9116765342236242168
+    second: walls_far_18
+  - first:
+      213: 2579762842114107762
+    second: walls_far_19
+  - first:
+      213: 4205198994342553111
+    second: walls_far_20
+  - first:
+      213: 148512593261310910
+    second: walls_far_21
+  - first:
+      213: 9152399971296768289
+    second: walls_far_22
+  - first:
+      213: -1351532792856948827
+    second: walls_far_23
+  - first:
+      213: 4441281467658741257
+    second: walls_far_24
+  - first:
+      213: 6606454392777565413
+    second: walls_far_25
+  - first:
+      213: 2254499805320170005
+    second: walls_far_26
+  - first:
+      213: -7044262998413649374
+    second: walls_far_27
+  - first:
+      213: -3215208953502766965
+    second: walls_far_28
+  - first:
+      213: 812294090104143607
+    second: walls_far_29
+  - first:
+      213: -6609852678326188486
+    second: walls_far_30
+  - first:
+      213: -7491713231813466122
+    second: walls_far_31
+  - first:
+      213: -2515728955350855874
+    second: walls_far_32
+  - first:
+      213: 6000557848240175053
+    second: walls_far_33
+  - first:
+      213: -6507042834715032828
+    second: walls_far_34
+  - first:
+      213: 6174640665903181084
+    second: walls_far_35
+  - first:
+      213: 93007413580823346
+    second: walls_far_36
+  - first:
+      213: -2743666450784748037
+    second: walls_far_37
+  - first:
+      213: -5904444186484222906
+    second: walls_far_38
+  - first:
+      213: 4492374989530295051
+    second: walls_far_39
+  - first:
+      213: -8003789986445734256
+    second: walls_far_40
+  - first:
+      213: 2978663326551139047
+    second: walls_far_41
+  - first:
+      213: 5588315202756828241
+    second: walls_far_42
+  - first:
+      213: 7639263190576358918
+    second: walls_far_43
+  - first:
+      213: -4779450972852524678
+    second: walls_far_44
+  - first:
+      213: 6645176026199657218
+    second: walls_far_45
+  - first:
+      213: 4821400214209649832
+    second: walls_far_46
+  - first:
+      213: -2304959699030086630
+    second: walls_far_47
+  - first:
+      213: -6586002943721608522
+    second: walls_far_48
+  - first:
+      213: -586257299424259010
+    second: walls_far_49
+  - first:
+      213: -8106000629412548711
+    second: walls_far_50
+  - first:
+      213: -6095994094956796356
+    second: walls_far_51
+  - first:
+      213: 4099533436525434890
+    second: walls_far_52
+  - first:
+      213: -2099491112462890476
+    second: walls_far_53
+  - first:
+      213: 8987051595071243538
+    second: walls_far_54
+  - first:
+      213: 1134796107529001808
+    second: walls_far_55
+  - first:
+      213: -7104718599145507238
+    second: walls_far_56
+  - first:
+      213: 1335610691490131405
+    second: walls_far_57
+  - first:
+      213: -2457986206691353683
+    second: walls_far_58
+  - first:
+      213: 7322218057815549540
+    second: walls_far_59
+  - first:
+      213: -5802433419366642041
+    second: walls_far_60
+  - first:
+      213: 1586368195081194236
+    second: walls_far_61
+  - first:
+      213: 7484509674237299928
+    second: walls_far_62
+  - first:
+      213: 7564818929465664215
+    second: walls_far_63
+  - first:
+      213: 7261674133670828689
+    second: walls_far_64
+  - first:
+      213: -6852999897421222678
+    second: walls_far_65
+  - first:
+      213: 1158618092272365265
+    second: walls_far_66
+  - first:
+      213: 4332853033632147014
+    second: walls_far_67
+  - first:
+      213: -147105058706484530
+    second: walls_far_68
+  - first:
+      213: 7091142758765823009
+    second: walls_far_69
+  - first:
+      213: 4235553511542601792
+    second: walls_far_70
+  - first:
+      213: 3385340711685922037
+    second: walls_far_71
+  - first:
+      213: 6983394736953535837
+    second: walls_far_72
+  - first:
+      213: 6327391921557757522
+    second: walls_far_73
+  - first:
+      213: -7313794887275341714
+    second: walls_far_74
+  - first:
+      213: -7093586626625760749
+    second: walls_far_75
+  - first:
+      213: -3750604012796049128
+    second: walls_far_76
+  - first:
+      213: -6945838425337197783
+    second: walls_far_77
+  - first:
+      213: 1325830564921341684
+    second: walls_far_78
+  - first:
+      213: 5370452502270258628
+    second: walls_far_79
+  - first:
+      213: -55260903443013170
+    second: walls_far_80
+  - first:
+      213: -8167541085505036029
+    second: walls_far_81
+  - first:
+      213: 3894704142038993276
+    second: walls_far_82
+  - first:
+      213: 8077630235690867430
+    second: walls_far_83
+  - first:
+      213: 5245512308855178057
+    second: walls_far_84
+  - first:
+      213: 8819187631332817746
+    second: walls_far_85
+  - first:
+      213: -8582455567948676704
+    second: walls_far_86
+  - first:
+      213: -6411804209553059492
+    second: walls_far_87
+  - first:
+      213: -912089733316776617
+    second: walls_far_88
+  - first:
+      213: 4721950722510881744
+    second: walls_far_89
+  - first:
+      213: 2314504885969734330
+    second: walls_far_90
+  - first:
+      213: 299097408768947492
+    second: walls_far_91
+  - first:
+      213: 5900147012107928730
+    second: walls_far_92
+  - first:
+      213: 7498329380037417759
+    second: walls_far_93
+  - first:
+      213: 3665023032673504493
+    second: walls_far_94
+  - first:
+      213: 7514372085589010543
+    second: walls_far_95
+  - first:
+      213: 4147975582348598710
+    second: walls_far_96
+  - first:
+      213: -6715866793628793086
+    second: walls_far_97
+  - first:
+      213: 7102279827736027270
+    second: walls_far_98
+  - first:
+      213: 2463839961692268085
+    second: walls_far_99
+  - first:
+      213: 7884097465330308951
+    second: walls_far_100
+  - first:
+      213: -1055081641116890430
+    second: walls_far_101
+  - first:
+      213: -729097059750041325
+    second: walls_far_102
+  - first:
+      213: -6269949492402706691
+    second: walls_far_103
+  - first:
+      213: 7278955564657875491
+    second: walls_far_104
+  - first:
+      213: -2341153483340608880
+    second: walls_far_105
+  - first:
+      213: -7036389598853280722
+    second: walls_far_106
+  - first:
+      213: 7685150038563295497
+    second: walls_far_107
+  - first:
+      213: -1537280955008417504
+    second: walls_far_108
+  - first:
+      213: 4579831499237231973
+    second: walls_far_109
+  - first:
+      213: -2375977849126262483
+    second: walls_far_110
+  - first:
+      213: -6254173881915870121
+    second: walls_far_111
+  - first:
+      213: -6135165610127048554
+    second: walls_far_112
+  - first:
+      213: 5289170613578766555
+    second: walls_far_113
+  - first:
+      213: 8768666025795060454
+    second: walls_far_114
+  - first:
+      213: -6559377751502979477
+    second: walls_far_115
+  - first:
+      213: 6596818771756284418
+    second: walls_far_116
+  - first:
+      213: 8355770212944200029
+    second: walls_far_117
+  - first:
+      213: 3305919686484051719
+    second: walls_far_118
+  - first:
+      213: 3717427790310226282
+    second: walls_far_119
+  - first:
+      213: 8718963367006317150
+    second: walls_far_120
+  - first:
+      213: 3448539073098579331
+    second: walls_far_121
+  - first:
+      213: -8286415430587646515
+    second: walls_far_122
+  - first:
+      213: -2230108818600809847
+    second: walls_far_123
+  - first:
+      213: -131755084819819611
+    second: walls_far_124
+  - first:
+      213: 7416212653383280038
+    second: walls_far_125
+  - first:
+      213: -3340340421882164060
+    second: walls_far_126
+  - first:
+      213: 6983391284813456594
+    second: walls_far_127
+  - first:
+      213: 4443262038966255372
+    second: walls_far_128
+  - first:
+      213: -7000036831446612093
+    second: walls_far_129
+  - first:
+      213: -6511330233060353382
+    second: walls_far_130
+  - first:
+      213: 6018634078098760834
+    second: walls_far_131
+  - first:
+      213: 2172191266734929300
+    second: walls_far_132
+  - first:
+      213: 4976531088185758937
+    second: walls_far_133
+  - first:
+      213: 3596061549212830907
+    second: walls_far_134
+  - first:
+      213: -2454431596788411572
+    second: walls_far_135
+  - first:
+      213: 935555865979262382
+    second: walls_far_136
+  - first:
+      213: 3564691576415881869
+    second: walls_far_137
+  - first:
+      213: 5865518325539754794
+    second: walls_far_138
+  - first:
+      213: -7520578373202542086
+    second: walls_far_139
+  - first:
+      213: 7796737502933780971
+    second: walls_far_140
+  - first:
+      213: 9167968863725204548
+    second: walls_far_141
+  - first:
+      213: -7110353797085438423
+    second: walls_far_142
+  - first:
+      213: 1449684556711180315
+    second: walls_far_143
+  - first:
+      213: 2627547010280704006
+    second: walls_far_144
+  - first:
+      213: 144933589131721592
+    second: walls_far_145
+  - first:
+      213: -3994998562983338674
+    second: walls_far_146
+  - first:
+      213: -9116819894774716279
+    second: walls_far_147
+  - first:
+      213: -3720513588866501697
+    second: walls_far_148
+  - first:
+      213: -3358794432481097615
+    second: walls_far_149
+  - first:
+      213: -6667420230163575366
+    second: walls_far_150
+  - first:
+      213: -7793589038536431630
+    second: walls_far_151
+  - first:
+      213: -5663621856310739074
+    second: walls_far_152
+  - first:
+      213: 3106627100728140402
+    second: walls_far_153
+  - first:
+      213: 7516520828568054558
+    second: walls_far_154
+  - first:
+      213: -7478906936132792215
+    second: walls_far_155
+  - first:
+      213: 6270968817838636983
+    second: walls_far_156
+  - first:
+      213: -8531921973513395512
+    second: walls_far_157
+  - first:
+      213: -6187094289812423956
+    second: walls_far_158
+  - first:
+      213: -3711903153873446306
+    second: walls_far_159
+  - first:
+      213: -2915826866351853844
+    second: walls_far_160
+  - first:
+      213: -3551835516347342480
+    second: walls_far_161
+  - first:
+      213: 6350432233558628915
+    second: walls_far_162
+  - first:
+      213: 585246243589541361
+    second: walls_far_163
+  - first:
+      213: 5134446250066891749
+    second: walls_far_164
+  - first:
+      213: -1997355137868129794
+    second: walls_far_165
+  - first:
+      213: -3053741413270264563
+    second: walls_far_166
+  - first:
+      213: 5867689893807999097
+    second: walls_far_167
+  - first:
+      213: 7587465154940650615
+    second: walls_far_168
+  - first:
+      213: 5832284889231008047
+    second: walls_far_169
+  - first:
+      213: 3486764487001124165
+    second: walls_far_170
+  - first:
+      213: 8370045554198736168
+    second: walls_far_171
+  - first:
+      213: 411640887158906917
+    second: walls_far_172
+  - first:
+      213: -8783856103401771956
+    second: walls_far_173
+  - first:
+      213: 4896290227711593802
+    second: walls_far_174
+  - first:
+      213: 2065684336598010238
+    second: walls_far_175
+  - first:
+      213: -1591799028463497590
+    second: walls_far_176
+  - first:
+      213: 6763792944736211522
+    second: walls_far_177
+  - first:
+      213: -7563615326170579672
+    second: walls_far_178
+  - first:
+      213: 8709744039204587062
+    second: walls_far_179
+  - first:
+      213: 7450671258478544306
+    second: walls_far_180
+  - first:
+      213: -4872213860010499633
+    second: walls_far_181
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_far_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30398a7e5f85920800000000000000
+      internalID: 2979401528820040641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 332
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22aaae6a420c6850800000000000000
+      internalID: 6371470091529921071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9c94368f4567a0800000000000000
+      internalID: -6384609458900919153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a4b9e90e427660800000000000000
+      internalID: 7382048543696266689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09bf5d8a4664fe60800000000000000
+      internalID: 7995127708874946828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 399
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc5f599bebdd170800000000000000
+      internalID: 8204923800433053598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1fadac5f610a8b0800000000000000
+      internalID: -5143085529530961445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b56c7e90b6bd60800000000000000
+      internalID: 7905700390633845012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 368
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747c48d5ea8644860800000000000000
+      internalID: 7513245176463411015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d02374aec84970b0800000000000000
+      internalID: -5730468998492774191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee609e6f03b40850800000000000000
+      internalID: 6342391054105341674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa6044f492b1770800000000000000
+      internalID: 8582498935305054851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9cbaaa106c53ad0800000000000000
+      internalID: -2723052689214944862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94935378dc84c27d0800000000000000
+      internalID: -2941896409005868727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d39cf17b3e99430800000000000000
+      internalID: 3790310937060785419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c612125887fa1bc0800000000000000
+      internalID: -3811461969751173433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce0859dd8b877500800000000000000
+      internalID: 393936933771284163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 158
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb2f52e03aa9480800000000000000
+      internalID: -8891615233128088399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0759ca6c1458e70800000000000000
+      internalID: 9116765342236242168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_far_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 256
+        width: 128
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a6f003a82dc320800000000000000
+      internalID: 2579762842114107762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
